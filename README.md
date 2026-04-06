@@ -77,6 +77,7 @@ Result: less manual parsing, faster response, better public awareness.
 ## Core Capabilities
 
 - Chat-based incident reporting (Telegram and Messenger)
+- Can store data until the internet is restored and allow chat using free data
 - AI-assisted report structuring from free-form text
 - Real-time incident monitoring dashboard
 - Map-based incident visualization
